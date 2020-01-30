@@ -1,2 +1,2 @@
 # indonesia-geojson
-Compilation of Indonesia geojson data
+Compilation of geojson data of Indonesia
